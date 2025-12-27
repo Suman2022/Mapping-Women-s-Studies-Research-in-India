@@ -44,10 +44,14 @@ NVivo (for manual coding)
 
 Trends in women’s studies theses across India from the Sodhganga repository, 2011-2020. 
 
-<img width="500" height="500" alt="Figure 3 Distribution Thesis accross Indias States" src="https://github.com/user-attachments/assets/a9fabcac-b000-41af-b202-89bac65585d1" />
+<img width="300" height="300" alt="Figure 3 Distribution Thesis accross Indias States" src="https://github.com/user-attachments/assets/a9fabcac-b000-41af-b202-89bac65585d1" />
 
 Distribution of theses across Indian states and major cities
 
 ![Figure 4  Distribution of work sector of women centric theses](https://github.com/user-attachments/assets/f78fb32f-a285-4935-8839-f38412daec87)
 
 Distribution of work sector of women centric theses.
+
+<img width="617" height="504" alt="Figure 5  T-SNE result" src="https://github.com/user-attachments/assets/1d3858de-69cf-4387-a24a-0042f9dafbdc" />
+
+Over all topic about theses
