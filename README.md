@@ -4,20 +4,20 @@ A Topic Modeling Analysis of Doctoral Theses (2011–2020) including validation 
 
 This repository contains code and documentation for a computational analysis of Women’s Studies doctoral theses in India, using topic modeling (LDA) and manual qualitative validation. The project examines how women-centric research themes vary across regions and how well academic research aligns with policy-relevant issues.
 
-🎯 Objectives
+Objectives
 Map dominant themes in Women’s Studies doctoral research
 Identify regional and thematic gaps in women-centric scholarship
 Compare machine-generated topics with manual qualitative coding
 Assess relevance of academic research to policy concerns
 
-🗂 Data
+Data
 
 Source: Shodhganga (INFLIBNET) doctoral thesis repository
 Corpus: 1,277 PhD theses (2011–2020)
 Text fields: Abstracts, findings, and recommendation chapters
 Validation data: National Commission for Women (NCW) reports
 
-⚠️ Raw thesis texts are not shared due to repository and copyright restrictions.
+Raw thesis texts are not shared due to repository and copyright restrictions.
 
 🧠 Methods
 
@@ -36,7 +36,7 @@ Policy-relevant gaps in academic research
 
 🛠 Tech Stack
 
-Python / R
+Python/ R
 NLP libraries (NLTK / gensim)
 LDAvis
 NVivo (for manual coding) 
